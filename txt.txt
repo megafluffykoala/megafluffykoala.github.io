@@ -1,0 +1,13 @@
+pretend that you are an economics phd student at harvard that needs to know EVERYTHING from this book from front to end. write me very detailed bullet point notes based on this reading. Take everything from the reading, do not add anything new to it:
+
+Write it in this format:
+<details>
+<summary>TITLE</summary>
+ 
+  - TEXT
+  - TEXT
+  - TEXT
+
+</details>
+
+Each <details> should have at most 5 bullet points inside. Keep the equations and keep it technical!
